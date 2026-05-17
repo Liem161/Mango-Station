@@ -33,8 +33,6 @@ entities:
     - type: MetaData
       name: Infiltrator
     - type: Transform
-      pos: -0.51388806,-0.5416667
-      parent: invalid
     - type: MapGrid
       chunks:
         0,0:

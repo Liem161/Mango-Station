@@ -23,8 +23,6 @@ entities:
     - type: MetaData
       name: grid
     - type: Transform
-      pos: -0.5520833,-0.5416667
-      parent: invalid
     - type: MapGrid
       chunks:
         0,0:
@@ -779,14 +777,6 @@ entities:
     - type: Transform
       pos: -0.5,2.5
       parent: 1
-    - type: EntityStorage
-      air:
-        volume: 200
-        immutable: False
-        temperature: 293.14673
-        moles:
-          Oxygen: 1.7459903
-          Nitrogen: 6.568249
     - type: ContainerContainer
       containers:
         entity_storage: !type:Container
@@ -795,7 +785,6 @@ entities:
           ents:
           - 273
           - 274
-          - invalid
           - 276
         paper_label: !type:ContainerSlot
           showEnts: False
