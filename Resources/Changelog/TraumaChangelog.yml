@@ -8619,3 +8619,12 @@ Entries:
   id: 987
   time: '2026-05-17T22:38:36.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2654
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: >-
+      Removed being able to learn nonsense skills like strength by reading
+      books.
+  id: 988
+  time: '2026-05-18T01:24:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2677
